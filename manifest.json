@@ -1,0 +1,11 @@
+{
+  "games": [
+    {
+      "id": "testgame",
+      "name": "Test Game",
+      "version": "1.0",
+      "url": "https://github.com/Xakernss/cva-games/releases/download/test-1.0/testgame-1.0.zip",
+      "exe": "TestGame.bat"
+    }
+  ]
+}
