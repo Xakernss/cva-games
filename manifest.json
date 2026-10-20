@@ -3,15 +3,15 @@
     "name": "Minecraft 1.20.1 (Create & Voice)",
     "pack": "1.1",
     "mods": [
-      "https://cdn.modrinth.com/data/P7R9A1xN/versions/H4A05aY7/fabric-api-0.92.2%2B1.20.1.jar",
-      "https://cdn.modrinth.com/data/9s6B211f/versions/W82vG4a8/cloth-config-11.1.118-fabric.jar",
-      "https://cdn.modrinth.com/data/A82b4Bbd/versions/sT9P6M8a/sodium-fabric-0.5.8%2Bmc1.20.1.jar",
-      "https://cdn.modrinth.com/data/41O2P12D/versions/e85LzS5Q/indium-1.0.30%2Bmc1.20.1.jar",
-      "https://cdn.modrinth.com/data/GVA213D/versions/l8K3ZpQ1/lithium-fabric-mc1.20.1-0.11.2.jar",
-      "https://cdn.modrinth.com/data/uXXA213D/versions/v4R1ZpQ2/ferritecore-6.0.1-fabric.jar",
-      "https://cdn.modrinth.com/data/lhT12b23/versions/p8R2ZpQ3/immediatelyfast-1.2.18%2B1.20.1.jar",
-      "https://cdn.modrinth.com/data/9eGK3620/versions/V6S0m0w9/simple-voice-chat-fabric-1.20.1-2.5.12.jar",
-      "https://cdn.modrinth.com/data/X213456/versions/Z84A1a23/create-fabric-0.5.1-f-build.1417%2Bmc1.20.1.jar"
+      "fabric-api",
+      "cloth-config",
+      "sodium",
+      "indium",
+      "lithium",
+      "ferrite-core",
+      "immediatelyfast",
+      "simple-voice-chat",
+      "create"
     ]
   },
   "games": []
