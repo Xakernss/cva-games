@@ -1,12 +1,5 @@
 {
   "games": [
-    {
-      "id": "testgame",
-      "name": "Test Game",
-      "version": "1.1",
-      "url": "https://github.com/Xakernss/cva-games/releases/download/test-1.1/testgame-1.1.zip",
-      "exe": "TestGame.bat"
-    }
   ],
   "minecraft": {
     "name": "Minecraft",
